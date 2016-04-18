@@ -1,0 +1,31 @@
+### PlayFramework template
+# Ignore Play! working directory #
+bin/
+/db
+.eclipse
+/lib/
+/logs/
+/modules
+/project/project
+/project/target
+/target
+tmp/
+test-result
+server.pid
+*.iml
+*.eml
+/dist/
+.cache
+### Java template
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Created by .ignore support plugin (hsz.mobi)
